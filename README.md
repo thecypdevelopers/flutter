@@ -12,8 +12,6 @@ El módulo *más* sofisticado de **seguimiento de ubicación y geoperimetraje** 
 
 ----------------------------------------------------------------------------
 
-[![Google Play](https://dl.dropboxusercontent.com/s/80rf906x0fheb26/google-play-icon.png?dl=1)](https://play.google.com/store/apps/details?id=com.transistorsoft.flutterbackgroundgeolocationexample)
-
 ![Home](https://dl.dropboxusercontent.com/s/wa43w1n3xhkjn0i/home-framed-350.png?dl=1)
 ![Settings](https://dl.dropboxusercontent.com/s/8oad228siog49kt/settings-framed-350.png?dl=1)
 
@@ -30,8 +28,6 @@ El módulo *más* sofisticado de **seguimiento de ubicación y geoperimetraje** 
 
 📂 **`pubspec.yaml`**:
 
-**Note:** See [Versions](https://pub.dartlang.org/packages/flutter_background_geolocation/#-versions-tab-) for latest available version.
-
 ```yaml
 dependencies:
   flutter_background_geolocation: '^1.9.0'
@@ -43,13 +39,13 @@ dependencies:
 dependencies:
   flutter_background_geolocation:
     git:
-      url: https://github.com/transistorsoft/flutter_background_geolocation.git
+      url: .....
 ```
 
 ## 🔷 Setup
 
-- [iOS](https://github.com/transistorsoft/flutter_background_geolocation/blob/master/help/INSTALL-IOS.md)
-- [Android](https://github.com/transistorsoft/flutter_background_geolocation/blob/master/help/INSTALL-ANDROID.md)
+- [iOS](https://github.com/thecypdevelopers/flutter_background_geolocation/blob/master/help/INSTALL-IOS.md)
+- [Android](https://github.com/thecypdevelopers/flutter_background_geolocation/blob/master/help/INSTALL-ANDROID.md)
 
 
 ## 🔷 Uso de plugin ##
