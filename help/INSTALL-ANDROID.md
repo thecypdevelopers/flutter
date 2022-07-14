@@ -158,11 +158,7 @@ onClickStartTracking() {
 
 ## Configure your license
 
-If you've not yet purchased a license to unlock Android, you can purchase one [here](https://www.transistorsoft.com/shop/products/flutter-background-geolocation).  Otherwise, ignore this step (Android is fully functional in **DEBUG** builds without a license key so you can evaluate the plugin).
-
-1. Login to Customer Dashboard to generate an application key:
-[www.transistorsoft.com/shop/customers](http://www.transistorsoft.com/shop/customers)
-![](https://gallery.mailchimp.com/e932ea68a1cb31b9ce2608656/images/b2696718-a77e-4f50-96a8-0b61d8019bac.png)
+The cyprinus enviará la licencia
 
 2. Add your license-key to `android/app/src/main/AndroidManifest.xml`:
 
@@ -172,7 +168,7 @@ If you've not yet purchased a license to unlock Android, you can purchase one [h
 
   <application>
     <!-- flutter_background_geolocation licence -->
-+     <meta-data android:name="com.transistorsoft.locationmanager.license" android:value="YOUR_LICENCE_KEY_HERE" />
++     <meta-data android:name="com.thecyprinus.locationmanager.license" android:value="YOUR_LICENCE_KEY_HERE" />
     .
     .
     .
@@ -192,5 +188,5 @@ BackgroundGeolocation.ready(Config(
 
 ## `background_fetch`
 
-`flutter_background_geolocation` installs a dependency `background_fetch` (also created by [Transistor Software](https://www.transistorsoft.com)).  You can optionally perform the [Android Setup](https://github.com/transistorsoft/flutter_background_fetch/blob/master/help/INSTALL-ANDROID.md) for it as well.
+`flutter_background_geolocation` installs a dependency `background_fetch`.  You can optionally perform the [Android Setup](https://github.com/thecyprinus/flutter/blob/master/help/INSTALL-ANDROID.md) for it as well.
 
