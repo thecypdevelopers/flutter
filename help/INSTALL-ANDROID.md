@@ -188,5 +188,5 @@ BackgroundGeolocation.ready(Config(
 
 ## `background_fetch`
 
-`flutter_background_geolocation` installs a dependency `background_fetch`.  You can optionally perform the [Android Setup](https://github.com/thecyprinus/flutter/blob/master/help/INSTALL-ANDROID.md) for it as well.
+`flutter_background_geolocation` installs a dependency `background_fetch`.  You can optionally perform the [Android Setup](https://github.com/thecypdevelopers/flutter/blob/master/help/INSTALL-ANDROID.md) for it as well.
 
