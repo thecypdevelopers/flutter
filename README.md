@@ -44,8 +44,8 @@ dependencies:
 
 ## 🔷 Setup
 
-- [iOS](https://github.com/thecypdevelopers/flutter_background_geolocation/blob/master/help/INSTALL-IOS.md)
-- [Android](https://github.com/thecypdevelopers/flutter_background_geolocation/blob/master/help/INSTALL-ANDROID.md)
+- [iOS](https://github.com/thecypdevelopers/flutter/blob/master/help/INSTALL-IOS.md)
+- [Android](https://github.com/thecypdevelopers/flutter/blob/master/help/INSTALL-ANDROID.md)
 
 
 ## 🔷 Uso de plugin ##
