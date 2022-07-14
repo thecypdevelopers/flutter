@@ -12,12 +12,6 @@ El módulo *más* sofisticado de **seguimiento de ubicación y geoperimetraje** 
 
 ----------------------------------------------------------------------------
 
-The **[Android module](https://www.transistorsoft.com/shop/products/flutter-background-geolocation)** requires [purchasing a license](https://www.transistorsoft.com/shop/products/flutter-background-geolocation).  However, it *will* work for **DEBUG** builds.  It will **not** work with **RELEASE** builds [without purchasing a license](https://www.transistorsoft.com/shop/products/flutter-background-geolocation).
-
-(2018) This plugin is supported **full-time** and field-tested **daily** since 2013.
-
-----------------------------------------------------------------------------
-
 [![Google Play](https://dl.dropboxusercontent.com/s/80rf906x0fheb26/google-play-icon.png?dl=1)](https://play.google.com/store/apps/details?id=com.transistorsoft.flutterbackgroundgeolocationexample)
 
 ![Home](https://dl.dropboxusercontent.com/s/wa43w1n3xhkjn0i/home-framed-350.png?dl=1)
@@ -25,7 +19,6 @@ The **[Android module](https://www.transistorsoft.com/shop/products/flutter-back
 
 # Contents
 
-- ### 📚 [API Documentation](https://pub.dartlang.org/documentation/flutter_background_geolocation/latest/flt_background_geolocation/flt_background_geolocation-library.html)
 - ### [Instalación de Plugin](#-installing-the-plugin)
 - ### [Setup](#-setup-guides)
 - ### [Uso del plugin](#-using-the-plugin)
